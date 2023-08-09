@@ -1,0 +1,2890 @@
+[
+    {
+        "active": true,
+        "description": "Penne pasta tossed in pesto and grilled chicken",
+        "name": "Chicken Pesto Pasta",
+        "carb_k_cal": 270,
+        "fat_k_cal": 215,
+        "k_cal": 647,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 37.208613924999995,
+                "daily_value_amount": 0.08088829114130434,
+                "id": "78e0ce70-d0c4-47a0-a96b-acc2b3b42b91",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 79.79501783749998,
+                "daily_value_amount": 0.5782247669384056,
+                "id": "28897584-bf55-4ff0-b2c6-4b1ef2829f31",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 420.0585565749999,
+                "daily_value_amount": 0.29221464805217384,
+                "id": "6f74fd1d-3859-4008-8bbd-1745d9a1c92d",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 91.3969,
+                "daily_value_amount": 0.08830618357487922,
+                "id": "cc7f7750-aae0-4a07-869d-297eb258f4b8",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 3.7175077939999994,
+                "daily_value_amount": 0.21550769820289853,
+                "id": "81c0390e-6e06-446a-8bc4-73f731851d2e",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 66.09871095099999,
+                "daily_value_amount": 0.24990060851039692,
+                "id": "0710e2ce-64e6-4495-b2b6-891000ee3bf4",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 3.9875937324999993,
+                "daily_value_amount": 0.12383831467391304,
+                "id": "167e89fb-be32-4b7e-820d-c931e2ec7d5e",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 1.281073059,
+                "daily_value_amount": 0,
+                "id": "eb8b5625-d247-42bd-8df0-b46962a74f08",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 0.8532649999999999,
+                "daily_value_amount": 0.03709847826086956,
+                "id": "ed8f34c8-f9de-4a65-9e73-b78210740162",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 4.207148749999999,
+                "daily_value_amount": 0.040648780193236714,
+                "id": "8d01cd0e-410d-4fed-ba01-927f59d3e58a",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 39.58874652249999,
+                "daily_value_amount": 0.25690296250811157,
+                "id": "d1685f07-3a7f-48cd-ad9a-e76a8f6a53b2",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 23.378287474499995,
+                "daily_value_amount": 0.3332614037704918,
+                "id": "65dc057a-b0ae-4a5f-91a2-c65982a55d8d",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 5.174799593775,
+                "daily_value_amount": 0.22499128668586957,
+                "id": "fbc8cb00-d369-48db-bc84-224894118bfb",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 169.410328675,
+                "daily_value_amount": 0.1133179456020067,
+                "id": "c2f6f16d-9525-4429-a8e8-a4a9f6c18fc5",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.7918905374999998,
+                "daily_value_amount": 0.08656476026570048,
+                "id": "e4c984c6-7c39-4a9f-9b92-0a60a82973d3",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 605.7180879750001,
+                "daily_value_amount": 0.11206625124421833,
+                "id": "e2ee551b-cc68-42c7-a180-1741bd6e4e63",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 717.7968267749999,
+                "daily_value_amount": 0.27137876248582227,
+                "id": "0ff75d91-cf42-499b-9994-4827598975a1",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 89.39874999999999,
+                "daily_value_amount": 0.25912681159420287,
+                "id": "b3544ece-d7a6-4b59-a785-e0149398fefc",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.8766497585999998,
+                "daily_value_amount": 0.4484141987723785,
+                "id": "432df902-4a39-43f0-918f-b499ea7374ad",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.6561415,
+                "daily_value_amount": 0.23773242753623192,
+                "id": "d36e7547-b420-4cc2-875d-e24dddad43e3",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.17739980299999997,
+                "daily_value_amount": 0.12855058188405796,
+                "id": "c8069bb0-ac63-4c21-95b1-1df3d5ddd42d",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.37251572925000004,
+                "daily_value_amount": 0.24917440083612044,
+                "id": "152f87e3-7134-40a1-b188-16ee8f39c414",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 9.118170722499999,
+                "daily_value_amount": 0.4955527566576087,
+                "id": "5fc9b1cc-109b-482d-a118-2ed5dcabefd0",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "229349b5-e3a4-48d4-9314-b495463fa7ab",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            }
+        ],
+        "protein_k_cal": 162,
+        "recipe": [
+            "chicken",
+            "red chili pepper flakes",
+            "basil pesto",
+            "cooked pasta",
+            "garlic",
+            "parmesan cheese",
+            "spinach",
+            "whole_milk",
+            "extra virgin olive oil"
+        ],
+        "weight": 398.34327749999994
+    },
+    {
+        "active": true,
+        "description": "Grilled chicken with southern style lima beans, smoked ham, seasoned and served in a bed of white rice",
+        "name": "Grilled Chicken & Butter Beans",
+        "carb_k_cal": 267,
+        "fat_k_cal": 132,
+        "k_cal": 596,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 48.21954802390817,
+                "daily_value_amount": 0.31291075940238916,
+                "id": "e54815a6-54ba-42b7-9b86-c2f58608d3be",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 65.59263943074785,
+                "daily_value_amount": 0.24798729463420738,
+                "id": "916dc303-9595-43ac-9606-552662a085f6",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 7.061933510642136,
+                "daily_value_amount": 0.21931470529944525,
+                "id": "2a0972e5-200d-4899-8d07-dadc3790a49d",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 14.420584516248152,
+                "daily_value_amount": 0.2055678477013279,
+                "id": "c0ef6064-7ce8-4831-b898-51d0f0673abe",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 2.320474159724108,
+                "daily_value_amount": 0.10089018085756991,
+                "id": "9a46bcd7-7119-40b6-a16a-cf2844f5c668",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 46.16689821181734,
+                "daily_value_amount": 0.030880868369108593,
+                "id": "3062573c-ce3a-4c8f-94dc-b1093cd3e063",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 4.736757633945923,
+                "daily_value_amount": 0.22882887120511708,
+                "id": "994442fa-fbb1-4f17-96d1-2aaf9413d1ce",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 1024.5685698463049,
+                "daily_value_amount": 0.18955940237674465,
+                "id": "8664c0f5-3d80-49ff-86b1-7f1a71c9c44a",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 2601.9465367350153,
+                "daily_value_amount": 0.9837226981984936,
+                "id": "8a4b8072-7148-4883-a323-094723f2bc1b",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 6.87187796935477,
+                "daily_value_amount": 0.06639495622564996,
+                "id": "0ff08bb6-203b-4c5d-b0ce-72f59e67f0c3",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.322167628709824,
+                "daily_value_amount": 0.6763005773451786,
+                "id": "24be366d-a0be-4773-a04c-4b9f338ebbb7",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.5965737039833074,
+                "daily_value_amount": 0.43229978549515036,
+                "id": "7a7d5453-c9d3-4348-9079-0b638f57f02e",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.3555685872981254,
+                "daily_value_amount": 0.23783851993185648,
+                "id": "710853ea-ce44-4c2b-8f27-56d0977a5f45",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 14.576967981899747,
+                "daily_value_amount": 0.7922265207554211,
+                "id": "2ca0f790-8869-42e9-ba48-39fc77d4b3dd",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 167.6014169377106,
+                "daily_value_amount": 0.36435090638632744,
+                "id": "1ad560d9-4052-4f46-a5e0-ed641150feaf",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 509.9473454689014,
+                "daily_value_amount": 0.35474597945662706,
+                "id": "6246304d-80e5-4bad-bc60-a18785400232",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 22.0398355651584,
+                "daily_value_amount": 0.02129452711609507,
+                "id": "5dd07719-7645-49d2-b18c-8d43df7f6bf4",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 3.652735582061792,
+                "daily_value_amount": 0,
+                "id": "ac01b2fa-2406-425f-add4-94bf00bce97b",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "20fe3a1c-79cf-4e1b-8a78-47f1dc53d5b8",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 109.49915566985362,
+                "daily_value_amount": 0.3173888570140685,
+                "id": "bf5ecf0b-1731-48e0-a46e-810b5c0377d0",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.2821411979338351,
+                "daily_value_amount": 0.10222507171515764,
+                "id": "e6582a73-8eb5-49a8-8b54-7de76de0bfce",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 10.974694170678262,
+                "daily_value_amount": 0.07952676935274103,
+                "id": "ff341532-971d-4639-8fb8-5340b17525e5",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "7390fe17-3a32-4f26-9d81-cdb5f1abe442",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 2.2513357564343153,
+                "daily_value_amount": 0.13051221776430813,
+                "id": "4189e850-83ea-4e45-bb7b-c33fcf17536e",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 197,
+        "recipe": [
+            "bay leaves",
+            "butter beans",
+            "adobo",
+            "black pepper",
+            "herbs de provence",
+            "hot sauce",
+            "red chili pepper flakes",
+            "garlic",
+            "white rice",
+            "sofrito",
+            "smoked ham",
+            "chicken",
+            "tomato sauce",
+            "salt",
+            "honey",
+            "liquid smoke"
+        ],
+        "weight": 412.1469530685822
+    },
+    {
+        "active": true,
+        "description": "Our take on meatloaf, made with chickpeas, rice, spinach, mushrooms, seasoned with thyme and paprika, and served with onion gravy",
+        "dietary_restriction": "vegetarian",
+        "name": "Chickpea Meatloaf",
+        "carb_k_cal": 361,
+        "fat_k_cal": 132,
+        "k_cal": 578,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 21.772163659460933,
+                "daily_value_amount": 0.1412859419822254,
+                "id": "4bafd006-0026-4ef9-b499-d21376632b58",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 91.88471455323962,
+                "daily_value_amount": 0.347390225154025,
+                "id": "584ccdd2-7bd8-494d-9255-e0e87bd2a467",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 13.74061656737536,
+                "daily_value_amount": 0.42672722258929696,
+                "id": "3ef8ed4e-f1a7-4832-9062-15b3bc119c0d",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 7.9611507911779205,
+                "daily_value_amount": 0,
+                "id": "d0271111-36cd-4594-aa92-f880371fee01",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 14.887733580241155,
+                "daily_value_amount": 0.212227135855184,
+                "id": "a7ddf4f0-2404-465d-a1d9-498197791321",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 1.5486205655499972,
+                "daily_value_amount": 0.0673313289369564,
+                "id": "060a2361-dee3-429a-9d52-c5ca6feec6c7",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 158.469164018624,
+                "daily_value_amount": 0.10599944081513314,
+                "id": "78d06cee-f05c-4274-950d-e4a43f70316f",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 6.589328498309697,
+                "daily_value_amount": 0.3183250482275216,
+                "id": "3ca4d28d-be29-422b-b7c4-274fd0e0c5aa",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 884.6251641925443,
+                "daily_value_amount": 0.16366793047040598,
+                "id": "2c54ee05-a1b7-4454-b5b2-949b9701be16",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1710.203680706016,
+                "daily_value_amount": 0.6465798414767546,
+                "id": "a53d9572-0422-4cbe-bf24-6334f94d4d62",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 11.342027392000004,
+                "daily_value_amount": 0.10958480571980682,
+                "id": "89bb29a9-67c8-4cc3-b5a3-1a90f3cf3b61",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.4402871446198526,
+                "daily_value_amount": 0.7367197670689783,
+                "id": "791960ca-4427-40e9-8c4c-f2659f2dc229",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.4790234807924609,
+                "daily_value_amount": 0.347118464342363,
+                "id": "8d6c0585-4ec2-472b-b8cd-2917bed56747",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.3344506862054593,
+                "daily_value_amount": 0.22371283358224706,
+                "id": "16673006-d785-468f-877e-1d06bd2b47b9",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 4.939929117224174,
+                "daily_value_amount": 0.2684744085447921,
+                "id": "21dace1d-43f1-4824-9814-9198d0490e24",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 227.14068218494722,
+                "daily_value_amount": 0.4937840917064071,
+                "id": "b9f6c209-4a36-460e-92af-8d638b874f1c",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 168.43046675200003,
+                "daily_value_amount": 1.2205106286376814,
+                "id": "83fbc0ff-86e1-47a0-a8e6-4a2e54d22386",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 386.13179645781133,
+                "daily_value_amount": 0.26861342362282525,
+                "id": "f5814803-9684-4a75-a756-4c8ae49a09e1",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.3945805420623363,
+                "daily_value_amount": 0.0808452488152079,
+                "id": "4db48de4-c4f6-4609-b9b0-f4af957d04b6",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.007874362675200001,
+                "daily_value_amount": 0.0003423635945739131,
+                "id": "e0a6e920-6c2e-42b2-a566-c0e933b37a3c",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "40978763-a7b0-4f5e-bdd4-60b26c862158",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "8120fc02-8000-4ef5-b8d2-c450f9cde7e4",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "8c5e0403-f1fc-491b-9ce6-9fdf9438302e",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 103.59827392000003,
+                "daily_value_amount": 0.10009495064734301,
+                "id": "20b4272f-e0f6-4520-a640-512f7ab845de",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            }
+        ],
+        "protein_k_cal": 86,
+        "recipe": [
+            "onion",
+            "garlic",
+            "spinach",
+            "walnuts",
+            "chickpeas",
+            "poultry seasoning",
+            "white button mushrooms",
+            "paprika",
+            "soy sauce",
+            "thyme",
+            "white rice",
+            "black pepper",
+            "salt",
+            "apple cider vinegar",
+            "flour"
+        ],
+        "weight": 438.73086875584005
+    },
+    {
+        "active": true,
+        "description": "Grilled salmon served with basmati rice, veggies, and a blend of seasoning",
+        "name": "Grilled Salmon with Rice & Veggies",
+        "carb_k_cal": 289,
+        "fat_k_cal": 234,
+        "k_cal": 619,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 24.176078955725558,
+                "daily_value_amount": 0.15688565188660322,
+                "id": "b62beebe-0801-4fa9-808e-753a91040b44",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 72.46595616041873,
+                "daily_value_amount": 0.2739733692265358,
+                "id": "7b1999f0-6a3e-442d-be66-1f40f019d501",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 3.580743975522539,
+                "daily_value_amount": 0.11120322905349501,
+                "id": "4eefe08a-9f9d-4a05-ac7f-3d7cc4b85a6e",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 8.253502821332795,
+                "daily_value_amount": 0,
+                "id": "52053e51-1de1-4b74-a4e7-1956287904c3",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 8.34,
+                "daily_value_amount": 0.3626086956521739,
+                "id": "a7d88f37-365a-4490-bc19-72f1200014f6",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 47.419939799999995,
+                "daily_value_amount": 0.1374491008695652,
+                "id": "2b4553ee-acc5-4443-b19e-ab21d237e777",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 5.944553529815759,
+                "daily_value_amount": 0.057435299804983186,
+                "id": "c6f82b1c-7551-4d62-abdc-a0887f1df7e2",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.7448124132724144,
+                "daily_value_amount": 0.3809782165076289,
+                "id": "e368410c-3b29-4fb2-9b2b-4663d7c873d6",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 2.3687599524,
+                "daily_value_amount": 0.8582463595652174,
+                "id": "84870798-ea45-46d8-b928-df1e563174a5",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.4980219266465346,
+                "daily_value_amount": 0.36088545409169176,
+                "id": "1b45ed2f-bf78-45f3-8688-4f9a7d494b60",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.23730414583289156,
+                "daily_value_amount": 0.1587318701223355,
+                "id": "0c034c82-8e19-499c-8fa6-2f4bd0585040",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 10.533604928115931,
+                "daily_value_amount": 0.5724785287019528,
+                "id": "e9cecb13-4279-4274-a427-1fb52d263db8",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 165.02213718235262,
+                "daily_value_amount": 0.3587437764833753,
+                "id": "1332fc44-0885-4be4-aaa6-c50767d827ac",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 26.05414098146274,
+                "daily_value_amount": 0.37140614371294006,
+                "id": "b799340c-300b-4fe1-a867-ce02166ce4d0",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 5.898193970256357,
+                "daily_value_amount": 0.2564432160981025,
+                "id": "d0875971-3c3d-4c8d-9a51-3ec60d43ac68",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 57.41684972109181,
+                "daily_value_amount": 0.038405919545880816,
+                "id": "84f15b50-f054-4ca7-876e-1d5a08d9f970",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 4.006308165514183,
+                "daily_value_amount": 0.19354145727121655,
+                "id": "8012371c-d8e5-4105-b6f5-92ce85ad1304",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 562.6468042573788,
+                "daily_value_amount": 0.1040974660975724,
+                "id": "966cafe6-108d-4307-bca6-cebcecf2bf48",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1461.9889119220102,
+                "daily_value_amount": 0.5527368287039736,
+                "id": "6d297fc9-c703-46e8-bd72-ba20a6991b5b",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 18.866396173232218,
+                "daily_value_amount": 0.13671301574805955,
+                "id": "56f44a41-d9fd-459f-b1a0-93813e1b7f44",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 352.8324759095399,
+                "daily_value_amount": 0.24544867889359295,
+                "id": "2502fac9-6960-46cf-a4ff-5f60d2236216",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "4082c99a-21a8-4193-9982-c9aa5defc397",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 69.15825476602318,
+                "daily_value_amount": 0.06681956982224461,
+                "id": "90c05ce7-913e-410b-a5d7-e966fc56d3b8",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 4.567238280465726,
+                "daily_value_amount": 0.26476743654873774,
+                "id": "6d349fd1-7f96-4694-a2ac-494d7efd6b17",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 96,
+        "recipe": [
+            "extra virgin olive oil",
+            "brown sugar",
+            "onion powder",
+            "paprika",
+            "grilled salmon",
+            "soy sauce",
+            "dijon mustard",
+            "garlic powder",
+            "salt",
+            "thyme",
+            "white rice",
+            "black pepper",
+            "garlic",
+            "sesame seeds",
+            "zucchini",
+            "sweet yellow onion",
+            "butter",
+            "yellow corn"
+        ],
+        "weight": 383.41085630105994
+    },
+    {
+            "active": true,
+            "description": "Flank steak strips, wok-fried in soy sauce, served with broccoli and mushrooms",
+            "name": "Beef & Broccoli Stir Fry",
+        "carb_k_cal": 288,
+        "fat_k_cal": 194,
+        "k_cal": 634,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 21.409722530399996,
+                "daily_value_amount": 0.30519918076122593,
+                "id": "3d8f2cb3-d002-4e6f-b744-beb9bccc80d4",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 5.572552556039998,
+                "daily_value_amount": 0.24228489374086948,
+                "id": "daab1f30-5652-4326-a0d8-5b7e7bcc068f",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 158.26514892,
+                "daily_value_amount": 0.10586297586622075,
+                "id": "e2e3834b-a646-44be-a3e6-398b336c55a5",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 6.5860097232,
+                "daily_value_amount": 0.3181647209275362,
+                "id": "3cd1df21-c4f8-4721-9ebe-0fc844d9a05e",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 1532.5324108799998,
+                "daily_value_amount": 0.28353976149491206,
+                "id": "47bb2177-8307-4fe4-9f22-36a555d354b0",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 4348.487241360001,
+                "daily_value_amount": 1.6440405449376183,
+                "id": "cce80c6e-43cb-4e6a-b652-61ff23e8d762",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 177.9049053960001,
+                "daily_value_amount": 1.2891659811304355,
+                "id": "c6da9b13-f667-4df7-84ce-944737a7c02a",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 2.2230030672000005,
+                "daily_value_amount": 0.12886974302608697,
+                "id": "d4dbfadb-fcc0-4f18-af79-0ed8d01cf76a",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 37.819586148,
+                "daily_value_amount": 0.24542236306294615,
+                "id": "a2a5c884-a3a6-4f8c-9132-6efd2bb5a7f0",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 71.451902616,
+                "daily_value_amount": 0.2701395183969754,
+                "id": "d3a132bd-4ea8-4fc8-91a0-0a548e0532d7",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 6.641903556000002,
+                "daily_value_amount": 0.2062702967701864,
+                "id": "429eb8b6-e95e-42dc-95cd-da474bd1c662",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 9.481175256,
+                "daily_value_amount": 0,
+                "id": "84645eca-683a-4e1a-80c7-bc1667a25583",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 0.0768,
+                "daily_value_amount": 0.0033391304347826084,
+                "id": "681f01dc-055f-44ea-9528-dd2b1b400581",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 69.888,
+                "daily_value_amount": 0.20257391304347827,
+                "id": "be6cec0e-dda9-474f-ae3f-256f3c21dedb",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 162.940289676,
+                "daily_value_amount": 1.574302315710145,
+                "id": "5f86ad6f-322a-4c92-ba79-b6017af1eaac",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.100269776,
+                "daily_value_amount": 0.5627978393861893,
+                "id": "f4c09f77-5be9-40f5-904d-9407bfff2248",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 2.25888,
+                "daily_value_amount": 0.8184347826086957,
+                "id": "d7dca9ef-c15b-48e4-a197-01e51d84ec58",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.53112378468,
+                "daily_value_amount": 0.38487230773913045,
+                "id": "20ea0138-d6f8-42ad-8efc-650b7b9f7b8c",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.7452175512000001,
+                "daily_value_amount": 0.49847327839464894,
+                "id": "410bd1bf-324d-4e96-9a53-c13929d826a0",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 10.54716425088,
+                "daily_value_amount": 0.5732154484173914,
+                "id": "1f238ae6-ac14-4461-a16b-78a0de3d8b9f",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 218.28766728000002,
+                "daily_value_amount": 0.4745384071304349,
+                "id": "a4131f96-f091-4cf3-9aa4-6caaa0f13624",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 454.77770748000006,
+                "daily_value_amount": 0.31636710085565223,
+                "id": "780b4bc8-82e6-44cb-8de4-eadb082458e1",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "3e25d8d5-b574-4b7f-ad15-371a510b76fc",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 19.510349400000003,
+                "daily_value_amount": 0.018850579130434784,
+                "id": "c8e47377-2f72-4aa8-b8dd-d982e486df9f",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            }
+        ],
+        "protein_k_cal": 152,
+        "recipe": [
+            "extra virgin olive oil",
+            "white rice",
+            "garlic powder",
+            "flank steak",
+            "soy sauce",
+            "garlic",
+            "broccoli raw",
+            "salt",
+            "black pepper",
+            "sesame oil",
+            "sugar",
+            "onion powder",
+            "onion",
+            "oyster sauce",
+            "beef stock",
+            "cornstarch",
+            "ginger root",
+            "goya mojo criollo marinade",
+            "balsamic vinegar",
+            "adobo",
+            "worcestershire sauce",
+            "white pepper"
+        ],
+        "weight": 719.7820170000002
+    },
+    {
+        "active": true,
+        "description": "Old fashioned oats, fresh mashed bananas, oats, milk, walnuts, honey, chia seeds, cinnamon, and dates",
+        "dietary_restriction":"vegetarian",
+        "name": "Mashed Banana Overnight Oats",
+        "carb_k_cal": 292,
+        "fat_k_cal": 229,
+        "k_cal": 590,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 17.8493177,
+                "daily_value_amount": 0.1158294464633355,
+                "id": "5840555a-b871-4580-9279-3b2c1df934d1",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 75.01070966480002,
+                "daily_value_amount": 0.2835943654623819,
+                "id": "7d55a5f5-9ccf-407c-acba-19dcd33b1b20",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 5.3824970720000005,
+                "daily_value_amount": 0.16715829416149072,
+                "id": "d747de5c-03a2-4cc5-939d-df2045b46cec",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 21.342826952000003,
+                "daily_value_amount": 0,
+                "id": "1c13eec2-9542-4285-a79f-3cfd5b0b1532",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 26.150603270399998,
+                "daily_value_amount": 0.37278122979900213,
+                "id": "76439f22-7539-4b7e-bd3c-8c17ecfa87da",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 5.088670634720001,
+                "daily_value_amount": 0.2212465493356522,
+                "id": "c92d5b1b-cfbe-4557-bb09-4ed43bb8da5f",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 293.95013376,
+                "daily_value_amount": 0.19662216305016728,
+                "id": "3b680c38-73c8-49c5-a055-6ccf12300631",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 946.8950603200001,
+                "daily_value_amount": 0.17518872531359853,
+                "id": "2bc158b8-0329-46bd-81c6-3c8613927e2d",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 12.473952624000002,
+                "daily_value_amount": 0.12052128139130439,
+                "id": "f24666d7-bbe3-4d32-adbb-f5e799fa038d",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.54646000464,
+                "daily_value_amount": 0.2795191839590793,
+                "id": "8e85c393-2e58-4636-8b34-8d6490eaf79d",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.5262449372800001,
+                "daily_value_amount": 0.38133691107246387,
+                "id": "fc37d5f2-ca9a-413d-82f8-d0aa1685d49b",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.8209815192000003,
+                "daily_value_amount": 0.0989663869130435,
+                "id": "38249a1e-e1b3-4bef-9b4b-ee3b51fc76fb",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 58.69032928000001,
+                "daily_value_amount": 0.12758767234782611,
+                "id": "6006da0b-c759-42e5-b7ac-012f7620de39",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 1.2272058720000003,
+                "daily_value_amount": 0.008892796173913045,
+                "id": "a843c1f9-bc20-4bdb-8e10-a22e4b4aeb5a",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 511.4482112000001,
+                "daily_value_amount": 0.35579005996521745,
+                "id": "7aed6c55-dd60-4b61-be60-558cdef7c48e",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 59.372637440000005,
+                "daily_value_amount": 0.057364867091787446,
+                "id": "db8779ca-2f98-4be2-9f9e-35b8ba45a748",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.3819191984,
+                "daily_value_amount": 0.022140243385507245,
+                "id": "917f615b-65c9-4ebe-9f57-c4f54dc6011e",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.7417951232000002,
+                "daily_value_amount": 0.07573022274782609,
+                "id": "6457133c-b1b1-4b2d-820a-49239d7a4684",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 3.1888913872000013,
+                "daily_value_amount": 0.15405272401932374,
+                "id": "89829998-4b96-431a-9d32-e9de49ce1a77",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 71.66369876,
+                "daily_value_amount": 0.02709402599621928,
+                "id": "217356e6-02c7-45e4-8bb7-eb58816af541",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 21.772439040000002,
+                "daily_value_amount": 0.06310851895652174,
+                "id": "3240ed58-5e22-4c70-960b-302c33e5363a",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.9797597568,
+                "daily_value_amount": 0.35498541913043485,
+                "id": "0fa56a2d-3577-47ad-9602-9782f7064c62",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.2973981176,
+                "daily_value_amount": 0.19892850675585286,
+                "id": "b794a35e-6ea8-4264-ac5d-5b202b3dc473",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "a296b648-d180-46e0-9b90-c50f54041cd3",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            }
+        ],
+        "protein_k_cal": 69,
+        "recipe": [
+            "banana",
+            "walnuts",
+            "date",
+            "old fashioned oats",
+            "cinnamon",
+            "chia seeds",
+            "honey",
+            "whole_milk"
+        ],
+        "weight": 366.37353600000006
+    },
+    {
+        "active": true,
+            "description": "A house favorite, prepared with black beans, sofrito, sweet potato, garlic, cheddar cheese, and topped with salsa verde",
+            "dietary_restriction": "vegetarian",
+            "name": "Sweet Potato and Black Bean Quesadilla",
+        "carb_k_cal": 383,
+        "fat_k_cal": 120,
+        "k_cal": 610,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 1237.5190880999996,
+                "daily_value_amount": 0.22895820316373722,
+                "id": "435c0518-7bae-4400-b068-c17043a7b297",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1413.1278063,
+                "daily_value_amount": 0.5342638209073723,
+                "id": "87e76605-77c7-4f09-870f-6c5b1f937556",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 27.38408151,
+                "daily_value_amount": 0.2645804976811595,
+                "id": "276e1640-46a6-4530-bbeb-7dcc2182e56d",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.5270472732,
+                "daily_value_amount": 0.269589398056266,
+                "id": "5ecb96ff-306c-4296-bb0e-303d0f364c0a",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.6302135207999999,
+                "daily_value_amount": 0.45667646434782605,
+                "id": "4a39faa5-47ce-4e82-8d91-7efcd912c112",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.5689636866000001,
+                "daily_value_amount": 0.38057771678929775,
+                "id": "377ecea1-b802-48ba-bf37-e21e95740e27",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 4.5638600148,
+                "daily_value_amount": 0.24803587036956526,
+                "id": "e6dd0320-ab66-4391-b916-76217017037f",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 186.50761500000002,
+                "daily_value_amount": 0.4054513369565218,
+                "id": "cf18fd81-26c8-40bb-bc9a-5440e3fdf3b0",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 12.738962579999999,
+                "daily_value_amount": 0.09231132304347825,
+                "id": "b6793562-56dc-46fb-9a0e-a7ed5b62c093",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 588.1812969,
+                "daily_value_amount": 0.4091695978434783,
+                "id": "de63277b-bb41-42a3-b7d9-93e8434466cc",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 1170.8577801,
+                "daily_value_amount": 1.1312635556521737,
+                "id": "c1177b0f-f664-4c03-9326-d02030ae725f",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 3.0720957060000003,
+                "daily_value_amount": 0.1780925046956522,
+                "id": "30acd32c-f0e5-419a-8dce-00350829fd7c",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 5.4170860350000005,
+                "daily_value_amount": 0.2355254797826087,
+                "id": "09a81f38-152c-49ad-8eea-8d86dcac24c2",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 0.12757284,
+                "daily_value_amount": 0.005546645217391304,
+                "id": "8397aa38-01fc-4f6b-b39b-766ce850b2f5",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 27.078473346000003,
+                "daily_value_amount": 0.1757201385204413,
+                "id": "3408609f-280c-4d4b-809b-48203e98af13",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 96.91186258799999,
+                "daily_value_amount": 0.36639645590926273,
+                "id": "34199af5-b5c6-48c3-88d9-da93068d9283",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 23.27246763,
+                "daily_value_amount": 0.722747441925466,
+                "id": "52f6ef87-e852-4fef-acef-b322899a2efd",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 10.564937082,
+                "daily_value_amount": 0,
+                "id": "9767dab9-f2b5-41fe-b470-e6cefa95d630",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 13.548085638,
+                "daily_value_amount": 0.1931302300498931,
+                "id": "8a1cfb6f-ec59-435f-8873-2b57ea04b71d",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 351.1415616,
+                "daily_value_amount": 0.23487729872909702,
+                "id": "54db3a7e-2c31-4256-8873-b909a98d116c",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 7.291167924,
+                "daily_value_amount": 0.35223033449275365,
+                "id": "b94478c6-4edf-4697-9404-7dcad8588583",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 21.262140000000002,
+                "daily_value_amount": 0.06162939130434783,
+                "id": "28f03919-3119-43df-966a-3bc4f782b690",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.225378684,
+                "daily_value_amount": 0.08165894347826087,
+                "id": "6c7a77df-43e6-41e8-baf2-f0fc871ad959",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "baf4c57a-6dae-4ab1-befc-c0602dc0510f",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            }
+        ],
+        "protein_k_cal": 107,
+        "recipe": [
+            "salsa verde",
+            "black beans",
+            "cheddar cheese",
+            "sweet potato",
+            "sofrito",
+            "garlic",
+            "tortilla"
+        ],
+        "weight": 409.51550999999995
+    },
+    {
+        "active": true,
+            "description": "Golden-brown bread, soaked in a mixture of egg, milk, and cinnamon, served hot with maple syrup",
+           "dietary_restriction": "vegetarian",
+           "name": "French Toast",
+        "carb_k_cal": 244,
+        "fat_k_cal": 270,
+        "id": "2ea7e2fe-97ed-4f41-bb94-8d78f89ff702",
+        "k_cal": 594,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 1.6457175,
+                "daily_value_amount": 0.05110923913043479,
+                "id": "8465f74b-a0e6-4d0f-8de6-94ff777e95f9",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 0.011115,
+                "daily_value_amount": 0.0001073913043478261,
+                "id": "5b89f90c-3289-425c-980b-8b5672c955bf",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "ed22f9d9-b640-4d37-90b7-921c3f988341",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 20.3153896827,
+                "daily_value_amount": 0.1318325092972096,
+                "id": "71b18653-7bb1-42cc-8eb9-af73a2df0169",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 61.38816041969999,
+                "daily_value_amount": 0.23209134374177692,
+                "id": "b1f60bc8-d75a-435f-aceb-5e78372fe02e",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 18.9308271744,
+                "daily_value_amount": 0,
+                "id": "241e45b3-ae0e-49d8-802a-0b22d32da0b6",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 30.271204193400003,
+                "daily_value_amount": 0.4315210861496793,
+                "id": "136c7db5-32a8-41fa-8bf5-27405061cc78",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 12.20345379792,
+                "daily_value_amount": 0.5305849477356521,
+                "id": "d7a8f687-8655-4cab-92c9-81d826c6d1cb",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 2.6158198176000003,
+                "daily_value_amount": 0.11373129641739131,
+                "id": "de116c5f-2a8e-4904-8f45-19be55861e1e",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 290.45473389,
+                "daily_value_amount": 0.19428410293645487,
+                "id": "10b43f10-af0c-4600-ba53-5e1175b871bc",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 3.8529359748000003,
+                "daily_value_amount": 0.1861321726956522,
+                "id": "b2b608ee-a30f-488e-8a02-8cefa41ecd0e",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 324.79996626,
+                "daily_value_amount": 0.060092500695652175,
+                "id": "6b0e0211-56e6-4229-86e8-9989b11cae92",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 945.3578076,
+                "daily_value_amount": 0.3574131597731569,
+                "id": "06415cc8-58a0-48f9-bf3d-d9c86b03fed1",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 379.80497682000004,
+                "daily_value_amount": 1.100883990782609,
+                "id": "b50ca169-be78-4068-897a-0550b3d5ac05",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.25663782213,
+                "daily_value_amount": 0.1312725432890026,
+                "id": "0218eeae-8a75-4900-8368-e6c95d667146",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.0881559332000001,
+                "daily_value_amount": 0.3942593960869566,
+                "id": "91333162-47bb-4404-9b93-29f96e753c4a",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.40359483306,
+                "daily_value_amount": 0.29246002395652176,
+                "id": "7cf9abe1-c9e8-40cf-89a4-910df33e439e",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.6726242309400001,
+                "daily_value_amount": 0.44991587353846163,
+                "id": "a73d257e-3250-410e-8d6f-7f6fe848f415",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 3.2374889646299994,
+                "daily_value_amount": 0.17595048720815215,
+                "id": "3723cfa4-9f97-4a95-aa49-d5dcef2585e7",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 104.99354622,
+                "daily_value_amount": 0.22824683960869568,
+                "id": "2331938e-42fe-41ed-8bec-a55e726bd36e",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 9.02285118,
+                "daily_value_amount": 0.0653829795652174,
+                "id": "8ec8b232-5503-4336-8ebc-ca31b24f60f8",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 340.49433807,
+                "daily_value_amount": 0.23686562648347828,
+                "id": "9fb22243-6060-4691-a46c-31d85272bb39",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 258.23100708000004,
+                "daily_value_amount": 0.24949855756521744,
+                "id": "78d847a1-3304-4117-9387-66dbbf37957a",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 2.2025349423000002,
+                "daily_value_amount": 0.1276831850608696,
+                "id": "fd62408d-8358-40f9-a64f-0f923ba1d579",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 81,
+        "recipe": [
+            "egg",
+            "cinnamon",
+            "maple syrup",
+            "butter",
+            "salt",
+            "white bread",
+            "whole_milk"
+        ],
+        "weight": 289.92235500000004
+    },
+    {
+        "active": true,
+            "description": "Vietnamese rice noodles tossed in our house made peanut sauce, with a hint of lime and spice",
+        "dietary_restriction": "vegetarian",
+            "name": "Peanut Noodles with Tofu",
+        "carb_k_cal": 255,
+        "fat_k_cal": 260,
+        "id": "9cee6e91-ce5a-4880-8463-73ac9d00577a",
+        "k_cal": 608,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "efe0cb31-5b5c-4cfe-9ba3-02d8183b099e",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "d3d10e75-5859-4685-8626-4d7953bf5536",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 4.084739456000001,
+                "daily_value_amount": 0.03946608170048311,
+                "id": "fdf1fdf2-4734-4de6-b32e-260443aa5650",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "c2c24073-1c9b-4a4d-9c8c-39a489eaaf31",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "0bb1fa85-b14d-4c06-bbed-0052a088a9fe",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 54.97179136,
+                "daily_value_amount": 0.05311284189371981,
+                "id": "2008d02d-29da-4a03-9217-35e8ed107129",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 23.4156461112,
+                "daily_value_amount": 0.15195098060480208,
+                "id": "d65d1666-f153-45e4-9d91-b259b1636f41",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 63.60016712160001,
+                "daily_value_amount": 0.24045431804007564,
+                "id": "71a987f9-a7b5-4973-892d-127c03d4fa5a",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 6.015670760000002,
+                "daily_value_amount": 0.18682207329192554,
+                "id": "669c33fc-e3cb-4705-a99e-11f8d96dfb45",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 10.2373290864,
+                "daily_value_amount": 0,
+                "id": "e44b4e4b-a19d-4ddd-a079-ac4a7f8de859",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 28.872602001600008,
+                "daily_value_amount": 0.41158377764219545,
+                "id": "faf33077-84d6-4bdc-96a2-84292671e1f9",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 5.6431756054400015,
+                "daily_value_amount": 0.24535546110608702,
+                "id": "c79ebba5-3ad5-4798-98fb-683baf6170fd",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 193.65450984000006,
+                "daily_value_amount": 0.12953478919063552,
+                "id": "2c0f200b-b192-4781-8e5b-2b9519e5989b",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 3.8800181096000004,
+                "daily_value_amount": 0.18744048838647345,
+                "id": "94256670-454d-4691-a2aa-75c9a268e2fc",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 394.2306168000001,
+                "daily_value_amount": 0.07293813446808513,
+                "id": "92ee04c5-add9-4cf5-be28-31142ec87170",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 2153.3881696,
+                "daily_value_amount": 0.814135413837429,
+                "id": "52715d88-5e8b-4c4a-b03b-11778a67bee1",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.28504741016000007,
+                "daily_value_amount": 0.14580430187212282,
+                "id": "e263edd7-c0b6-4098-9ef9-8dd7f09fb49b",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.1253281612,
+                "daily_value_amount": 0.09081750811594204,
+                "id": "dcad9c09-458a-4d96-addf-193e53fbf733",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.12815600592,
+                "daily_value_amount": 0.08572308088294316,
+                "id": "ad19e7b2-188c-4d20-a21a-16153c804027",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 6.035959495280001,
+                "daily_value_amount": 0.3280412769173914,
+                "id": "25d83e40-9d0c-4e48-ae45-532218f1528b",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 43.32330664000001,
+                "daily_value_amount": 0.09418110139130438,
+                "id": "dc1b50f1-aa2b-465c-b95c-9c3b1ff45893",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 8.463912711999999,
+                "daily_value_amount": 0.0613327008115942,
+                "id": "1da22236-c9dc-410b-be61-6ec594b6a3b6",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 203.20069888000003,
+                "daily_value_amount": 0.14135700791652175,
+                "id": "26c145b1-70e7-4e8c-b280-f1e068ba1ff6",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 5.117495604000002,
+                "daily_value_amount": 0.29666641182608705,
+                "id": "e64b1a30-b2c8-437c-a474-440031cc2038",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 94,
+        "recipe": [
+            "peanut butter",
+            "lime_juice",
+            "dijon mustard",
+            "extra virgin olive oil",
+            "soy sauce",
+            "ginger root",
+            "sriracha",
+            "brown sugar",
+            "salt",
+            "paprika",
+            "garlic",
+            "tofu",
+            "rice noodles",
+            "black pepper",
+            "thyme",
+            "red chili pepper flakes",
+            "coconut milk",
+            "cumin"
+        ],
+        "weight": 392.519784
+    },
+    {
+        "active": true,
+            "description": "Turkey meatballs served with orzo, roasted veggies, and a blend of herbs",
+            "name": "Mediterranean Turkey Meatballs with Orzo & Roasted Veggies",
+        "carb_k_cal": 271,
+        "fat_k_cal": 189,
+        "k_cal": 632,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 5.8112327925,
+                "daily_value_amount": 0.18047306809006214,
+                "id": "c1366b4c-f5a9-468f-87bf-819f01946886",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 43.34541758325,
+                "daily_value_amount": 0.28128110047534066,
+                "id": "12d66707-c607-4753-a405-33c35bc992c5",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 67.79901294945,
+                "daily_value_amount": 0.2563289714534972,
+                "id": "c976374c-d781-43c2-bb34-04a3dbce4550",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 7.9507753704,
+                "daily_value_amount": 0,
+                "id": "bbb1a426-ff13-43b0-8c56-3c5bfb946b20",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 20.9972270727,
+                "daily_value_amount": 0.29931898891945835,
+                "id": "046392ab-b861-4fa9-9818-ace25f1ef59e",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 4.89509211042,
+                "daily_value_amount": 0.21283009175739132,
+                "id": "6a16fe6b-ac8a-409d-ae94-76787e1b7963",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 0.439245,
+                "daily_value_amount": 0.019097608695652173,
+                "id": "95b6a9fa-2bfe-4c01-afed-c8718d770c6f",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 121.87520770500001,
+                "daily_value_amount": 0.08152187806354518,
+                "id": "459c19fc-f69c-4570-b981-8e226102cd4e",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 3.9831988414500006,
+                "daily_value_amount": 0.19242506480434787,
+                "id": "bcf24510-0bb3-4062-a239-948e306454a4",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 768.738012165,
+                "daily_value_amount": 0.14222719929047178,
+                "id": "3c88b6dc-fe46-4c18-ab7b-7cd0a75f4aea",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1529.19984699,
+                "daily_value_amount": 0.5781473901663516,
+                "id": "50923119-6aea-4aa8-9fa7-24715a0f96e3",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 53.793677609999996,
+                "daily_value_amount": 0.5197456773913044,
+                "id": "c5c921a8-b517-4660-a79b-0c407224c12c",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "5c54c092-cc73-4e09-b5a9-1da481bc3c56",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 0.3276056736,
+                "daily_value_amount": 0.23739541565217392,
+                "id": "cd715ffa-be10-43db-92c9-3cbe6d288ae7",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 139.29746975999998,
+                "daily_value_amount": 0.40376078191304343,
+                "id": "235320a8-f80f-4fe6-889b-ee122066cdb6",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.058019823845,
+                "daily_value_amount": 0.5411866106624041,
+                "id": "5f733122-85b2-48c4-955b-16f1404a7ec7",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.5934841856000004,
+                "daily_value_amount": 0.5773493426086959,
+                "id": "a464fab5-2786-4441-9b3a-a5ef3e2b3543",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.48949592652000007,
+                "daily_value_amount": 0.3274220244280937,
+                "id": "e7987f23-6847-4467-8b2e-7697bec34b12",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 11.014446481424999,
+                "daily_value_amount": 0.5986112218165761,
+                "id": "205d6354-24f5-4f97-a1a7-1534c1522fa0",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 77.483970765,
+                "daily_value_amount": 0.16844341470652174,
+                "id": "7bc69d82-9cec-4f63-a9be-c09edce5dd02",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 18.464958013500002,
+                "daily_value_amount": 0.13380404357608697,
+                "id": "fd2a509b-fd88-48bb-b016-a89fc80d5acf",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 468.3835501200001,
+                "daily_value_amount": 0.32583203486608703,
+                "id": "7c548d33-e1d0-43f8-b33e-8e8f776a2ceb",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 100.255627665,
+                "daily_value_amount": 0.09686534073913045,
+                "id": "75494b8f-0a72-4e08-b09d-e78c6c1c4554",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 2.0244573234,
+                "daily_value_amount": 0.11735984483478261,
+                "id": "40d99b4f-d2b9-4d71-ac32-a6f74a817711",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 173,
+        "recipe": [
+            "egg",
+            "garlic powder",
+            "bread crumbs",
+            "ground turkey meatballs",
+            "garlic",
+            "sage",
+            "zucchini",
+            "onion powder",
+            "black pepper",
+            "oregano",
+            "bell pepper",
+            "paprika",
+            "buttery steakhouse",
+            "adobo",
+            "onion",
+            "lemon juice",
+            "tzatziki",
+            "cooked pasta",
+            "sofrito",
+            "extra virgin olive oil",
+            "salt"
+        ],
+        "weight": 461.1710385
+    },
+    {
+        "active": true,
+            "description": "Prepared with seasoned ground beef and Italian pork sausage, served with vegetables in a house made marinara sauce",
+            "name": "Spaghetti Bolognese",
+        "carb_k_cal": 280,
+        "fat_k_cal": 210,
+        "k_cal": 616,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 6.38019327048464,
+                "daily_value_amount": 0.19814264815169694,
+                "id": "c6a55c97-20db-44c5-823b-c643e0f4e3c3",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 6.503796973846336,
+                "daily_value_amount": 0,
+                "id": "773f427a-d78d-4ae7-9cfb-0f9db959c27f",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 0.3187263744,
+                "daily_value_amount": 0.013857668452173913,
+                "id": "c9730d53-d1a9-4e62-884a-31370aac81dd",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 65.2954143109376,
+                "daily_value_amount": 0.1892620704664858,
+                "id": "3828e940-5ec0-4c6b-9eed-b0de07eeb5dc",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 23.29850509419136,
+                "daily_value_amount": 0.22510632941247694,
+                "id": "fac6c1e9-4b57-4fe6-9eae-2eda585f48ca",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 22.293207714704007,
+                "daily_value_amount": 0.1615449834398841,
+                "id": "845ac32f-3e69-4592-b442-6cefd384afd9",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "72063f41-632b-4f66-8d60-768c9e5dcdb8",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 206.82097341509828,
+                "daily_value_amount": 0.19982702745420122,
+                "id": "b015cdf0-8a8d-427c-b604-24c4820d759f",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 2.2294199628619515,
+                "daily_value_amount": 0.12924173697750443,
+                "id": "8fe75ca2-7670-4451-adac-03b2eb8c687f",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 31.013746052767807,
+                "daily_value_amount": 0.20125727483950556,
+                "id": "bb62ba0e-6b84-459b-a85e-d2c403993e02",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 69.01872877161475,
+                "daily_value_amount": 0.26094037342765497,
+                "id": "904eb29a-05ed-49fe-a142-6bb7618be91e",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 22.968514812108097,
+                "daily_value_amount": 0.3274200258319045,
+                "id": "64432698-7f59-4eae-be7d-42477399e071",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 7.18425149020513,
+                "daily_value_amount": 0.3123587604437013,
+                "id": "97e727d3-62a4-420b-b55f-790dd15a9f9c",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 119.75218305451264,
+                "daily_value_amount": 0.08010179468529274,
+                "id": "eb313eeb-6b74-44d8-9ca6-446721d91ba6",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 3.7349788946610536,
+                "daily_value_amount": 0.18043376302710404,
+                "id": "80689ee1-5aac-4fdf-8146-5aae7c03dc97",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 856.2791215809907,
+                "daily_value_amount": 0.1584235192564275,
+                "id": "0aa88c62-a2f2-4dc2-b266-b31e139e8800",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1286.2233914121764,
+                "daily_value_amount": 0.4862848360726565,
+                "id": "6e2ae19c-b224-4174-bbef-7cbbdcda8400",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.6043830643451467,
+                "daily_value_amount": 0.30914734749112366,
+                "id": "7612dcbe-394a-4519-bd34-4a543ac7fe68",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.6854319726599236,
+                "daily_value_amount": 0.6106637582101173,
+                "id": "39ad664f-bccd-4edd-b331-c8f231d68208",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0.2698753164342944,
+                "daily_value_amount": 0.1955618235031119,
+                "id": "718e9f20-4cc9-4892-906a-3e137a090b3f",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.31322864051035587,
+                "daily_value_amount": 0.20951748529120795,
+                "id": "c502bc1a-4afd-45c4-bf43-a9121dfa0140",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 6.216933755879264,
+                "daily_value_amount": 0.3378768345586557,
+                "id": "d388a0a5-4337-46a7-9cb2-a75130d4844b",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 49.2446882628336,
+                "daily_value_amount": 0.1070536701365948,
+                "id": "b0b4647c-6801-4a9d-a6d8-c6fc965782b2",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 334.73487876128,
+                "daily_value_amount": 0.23285904609480348,
+                "id": "772e3523-2277-40bb-8261-56a9b0ea0546",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 126,
+        "recipe": [
+            "beef broth",
+            "ground beef",
+            "paprika",
+            "adobo",
+            "thyme",
+            "garlic powder",
+            "italian pork sausage",
+            "onion",
+            "oregano",
+            "extra virgin olive oil",
+            "onion powder",
+            "red chili pepper flakes",
+            "cumin",
+            "sofrito",
+            "salt",
+            "black pepper",
+            "carrots",
+            "celery",
+            "red chili pepper flakes",
+            "cooking wine",
+            "cooked pasta",
+            "garlic",
+            "bay leaves",
+            "tomato",
+            "tomato sauce",
+            "whole_milk"
+        ],
+        "weight": 545.9233655873919
+    },
+    {
+        "active": true,
+            "description": "Drawing on our texan roots, prepared with seasoned ground beef, our house made sofrito, rice, topped with avocado crema, veggies, and green olives",
+            "name": "Burrito Bowl",
+        "carb_k_cal": 268,
+        "fat_k_cal": 233,
+        "k_cal": 625,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "25e05b10-04be-4419-9c3e-64199a7db2c7",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 81.96526690070401,
+                "daily_value_amount": 0.23758048377015656,
+                "id": "2b4b7177-549a-4968-b747-b73fc4d87ce0",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 2.4030262721345763,
+                "daily_value_amount": 0.8706616928023828,
+                "id": "85868d31-19a6-4702-8f18-8157140cca5f",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "cedb896a-0277-484f-9cec-48e25cb21f53",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 30.536110378983448,
+                "daily_value_amount": 0.1981577571640717,
+                "id": "07dd155c-cf28-414d-9fb1-3a7d0b67a829",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 66.36238676200954,
+                "daily_value_amount": 0.250897492483968,
+                "id": "0c2e7667-04e9-4da0-beae-bae3ad2dfe19",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 4.51030945805176,
+                "daily_value_amount": 0.14007172229974413,
+                "id": "806b9cb8-1a3b-4deb-87d3-8db229baa163",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 7.702964670452392,
+                "daily_value_amount": 0,
+                "id": "87d4d68f-0b64-47e1-838b-337ec80f6fd6",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 25.595426753812085,
+                "daily_value_amount": 0.3648670955639642,
+                "id": "d1c87f6f-46d3-4243-9deb-a3973720a058",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 7.32147901341525,
+                "daily_value_amount": 0.31832517449631526,
+                "id": "18817a25-ffe3-483f-a816-fea52e6ea1b4",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 90.13634923759841,
+                "daily_value_amount": 0.06029187239973139,
+                "id": "ce35697d-2e3d-4894-9fb5-9bf91a182cc7",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 5.862182846581161,
+                "daily_value_amount": 0.2831972389652735,
+                "id": "c5451dd3-2f70-4bfe-b7de-5abfd89dff34",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 684.7359004100208,
+                "daily_value_amount": 0.12668564299907878,
+                "id": "5fdbb48a-808f-4f2b-940e-4c8e05e9e073",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 1506.832223928759,
+                "daily_value_amount": 0.5696908219012321,
+                "id": "df9531c6-2ac5-46e1-a05a-327d865d3c80",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 75.45998027810353,
+                "daily_value_amount": 0.7290819350541404,
+                "id": "54d41963-1c20-4495-a3a2-39ab43a363b5",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.8311465535451761,
+                "daily_value_amount": 0.4251389020691438,
+                "id": "f9b4cfa1-a38b-431c-9e75-2a63f45a4b12",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.44547367821035205,
+                "daily_value_amount": 0.3228070131959073,
+                "id": "52f9d9cf-6333-4015-ac5a-754a8c420784",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.28163402866588005,
+                "daily_value_amount": 0.18838396566279603,
+                "id": "8bf8643b-ba86-47b7-b857-9a5560d3e2bb",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 8.241408952592465,
+                "daily_value_amount": 0.44790266046698185,
+                "id": "37b40b00-34fb-4589-94cc-4690d7bee6b4",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 160.3621309620704,
+                "daily_value_amount": 0.34861332817841395,
+                "id": "6435183f-23fe-4b7e-9080-efb583ef0980",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 20.05815697605192,
+                "daily_value_amount": 0.14534896359457913,
+                "id": "81787132-8dc3-4a05-846e-a790ef3abefe",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 316.2744443160456,
+                "daily_value_amount": 0.22001700474159694,
+                "id": "31059fbe-df39-4c0e-ad48-2e4b68c3a105",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            },
+            {
+                "amount": 116.41519598517601,
+                "daily_value_amount": 0.1124784502272232,
+                "id": "59dba900-3249-4280-8be9-57acafb1aaa4",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 2.6609380215809604,
+                "daily_value_amount": 0.154257276613389,
+                "id": "dd78feb0-7308-43df-9624-879c33f3525c",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 123,
+        "recipe": [
+            "oregano",
+            "paprika",
+            "adobo",
+            "ground beef",
+            "cumin",
+            "onion powder",
+            "cooking wine",
+            "taco seasoning",
+            "onion",
+            "garlic powder",
+            "sofrito",
+            "garlic",
+            "green olives",
+            "onion",
+            "white rice",
+            "avocado crema",
+            "bell pepper"
+        ],
+        "weight": 457.77292605175995
+    },
+    {
+        "active": true,
+            "description": "Buttermilk pancakes infused with chocolate chips, chocolate protein powder, and topped with maple syrup",
+            "dietary_restriction": "vegetarian",
+        "name": "Chocolate Chip Pancakes",
+        "carb_k_cal": 318,
+        "fat_k_cal": 223,
+        "id": "aaf798f7-a83d-4b08-8cf0-c3dbab4ffdbe",
+        "k_cal": 637,
+        "meal_plan_id": "c2e2203a-6752-4523-8cd6-0f8c8a50bbfe",
+        "nutrients": [
+            {
+                "amount": 25.400387949999995,
+                "daily_value_amount": 0.16483055126541205,
+                "id": "cf40b462-a9f5-466b-a070-33a9f7b7feb8",
+                "name": "Protein",
+                "nutrient_id": "protein",
+                "unit": "g"
+            },
+            {
+                "amount": 5.534169025,
+                "daily_value_amount": 0.17186860326086958,
+                "id": "3ef45eee-57fc-41d9-88a8-123a32ab847e",
+                "name": "Dietary fiber",
+                "nutrient_id": "dietary_fiber",
+                "unit": "g"
+            },
+            {
+                "amount": 0.7559999999999999,
+                "daily_value_amount": 0.0328695652173913,
+                "id": "092919bf-ab1b-434a-95e6-dbc17f998ac0",
+                "name": "Vitamin d",
+                "nutrient_id": "vitamin_d",
+                "unit": "mcg"
+            },
+            {
+                "amount": 53.87199999999999,
+                "daily_value_amount": 0.15615072463768115,
+                "id": "6601a30e-841b-4f90-a38a-242db42f724f",
+                "name": "Cholesterol",
+                "nutrient_id": "cholesterol",
+                "unit": "mg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "2600ead5-0685-49f3-9fdd-951adce4a77f",
+                "name": "Vitamin c",
+                "nutrient_id": "vitamin_c",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.27525381625,
+                "daily_value_amount": 0.14079479092071612,
+                "id": "1e1f05bf-c659-4e34-8ccd-d652bdf88bde",
+                "name": "Vitamin B-6",
+                "nutrient_id": "vitamin_b_6",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.8424499999999999,
+                "daily_value_amount": 0.3052355072463768,
+                "id": "922e8165-6a0d-4399-82ee-3606e4a12748",
+                "name": "Vitamin B-12",
+                "nutrient_id": "vitamin_b_12",
+                "unit": "mcg"
+            },
+            {
+                "amount": 50.10593174999999,
+                "daily_value_amount": 0.10892593858695651,
+                "id": "265e3087-40c0-4b7b-8ca4-cbbbd4e24143",
+                "name": "Folate",
+                "nutrient_id": "folate",
+                "unit": "mcg"
+            },
+            {
+                "amount": 84.051814525,
+                "daily_value_amount": 0.317776236389414,
+                "id": "12ecbda3-3cfd-4357-81fb-806b64531706",
+                "name": "Carb",
+                "nutrient_id": "carb",
+                "unit": "g"
+            },
+            {
+                "amount": 46.311013875,
+                "daily_value_amount": 0,
+                "id": "4a705c70-13ae-435c-b5ef-128bd403bc37",
+                "name": "Sugars",
+                "nutrient_id": "sugars",
+                "unit": "g"
+            },
+            {
+                "amount": 26.1291625,
+                "daily_value_amount": 0.37247558802565933,
+                "id": "8067804e-046f-4bad-b072-b0ae33bc4060",
+                "name": "Fat",
+                "nutrient_id": "fat",
+                "unit": "g"
+            },
+            {
+                "amount": 12.099903549999999,
+                "daily_value_amount": 0.5260827630434782,
+                "id": "dd962ad2-a70d-4c3f-b03d-4fc05292e458",
+                "name": "Saturated fat",
+                "nutrient_id": "saturated_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 293.8528319999999,
+                "daily_value_amount": 0.19655707826086954,
+                "id": "ed785ed4-1b19-4df9-9fab-504c57120c6a",
+                "name": "Calcium",
+                "nutrient_id": "calcium",
+                "unit": "mg"
+            },
+            {
+                "amount": 3.1344435675,
+                "daily_value_amount": 0.1514223945652174,
+                "id": "2556377a-9c5b-49f4-86f9-67b746ea14fe",
+                "name": "Iron",
+                "nutrient_id": "iron",
+                "unit": "mg"
+            },
+            {
+                "amount": 448.80308375,
+                "daily_value_amount": 0.08303479810360777,
+                "id": "6b34a5d6-8673-4a77-94e2-36a832fe03c3",
+                "name": "Potassium",
+                "nutrient_id": "potassium",
+                "unit": "mg"
+            },
+            {
+                "amount": 486.7869422499998,
+                "daily_value_amount": 0.18404043185255192,
+                "id": "dbb3569b-cc6b-4910-b73b-a187ccc38b31",
+                "name": "Sodium",
+                "nutrient_id": "sodium",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.35142771124999994,
+                "daily_value_amount": 0.2546577617753623,
+                "id": "e7a5092f-607a-4563-a655-2aa291b6c20f",
+                "name": "Thiamin",
+                "nutrient_id": "thiamin",
+                "unit": "mg"
+            },
+            {
+                "amount": 0.7114585274999998,
+                "daily_value_amount": 0.4758919916387959,
+                "id": "e6764883-cd9c-4cfa-9d0d-62847971ddf6",
+                "name": "Riboflavin",
+                "nutrient_id": "riboflavin",
+                "unit": "mg"
+            },
+            {
+                "amount": 1.6492047582499993,
+                "daily_value_amount": 0.08963069338315215,
+                "id": "324a30d0-3f53-4de3-a8ff-e3c6bcd49f4b",
+                "name": "Niacin",
+                "nutrient_id": "niacin",
+                "unit": "mg"
+            },
+            {
+                "amount": 11.003970599999999,
+                "daily_value_amount": 0.07973891739130434,
+                "id": "1a49cc63-b96a-475a-ad78-7b12bff66cef",
+                "name": "Vitamin k",
+                "nutrient_id": "vitamin_k",
+                "unit": "mcg"
+            },
+            {
+                "amount": 0,
+                "daily_value_amount": 0,
+                "id": "ab940d1c-feb4-426e-85f3-393570802164",
+                "name": "Trans fat",
+                "nutrient_id": "trans_fat",
+                "unit": "g"
+            },
+            {
+                "amount": 61.31999999999998,
+                "daily_value_amount": 0.059246376811594184,
+                "id": "bb6a2456-5873-4f62-b7ec-67af67e2c32e",
+                "name": "Vitamin a",
+                "nutrient_id": "vitamin_a",
+                "unit": "mcg"
+            },
+            {
+                "amount": 1.2788986349999998,
+                "daily_value_amount": 0.07413905130434781,
+                "id": "57f1332d-7a78-4345-84c7-a95de0fa00b1",
+                "name": "Vitamin e",
+                "nutrient_id": "vitamin_e",
+                "unit": "mg"
+            },
+            {
+                "amount": 634.2763069999999,
+                "daily_value_amount": 0.44123569182608685,
+                "id": "b9232a96-9251-486d-a42a-214fcf78f4e0",
+                "name": "Phosphorus",
+                "nutrient_id": "phosphorus",
+                "unit": "mg"
+            }
+        ],
+        "protein_k_cal": 96,
+        "recipe": [
+            "maple syrup",
+            "pancake",
+            "chocolate chips",
+            "protein powder"
+        ],
+        "weight": 186.19947499999998
+    }
+]
