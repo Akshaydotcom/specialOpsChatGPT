@@ -74,14 +74,34 @@ def get_recipe(name):
     data = list(collection2.find(name))
     return data[0].get("recipe")
 
+
 def get_nutrients(name):
     data = list(collection2.find(name))
     return data[0].get("nutrients")
 
-def get_and_compare_nutrients(meal1,meal2):
-    data1 = list(collection2.find(meal1))
-    data2= list(collection2.find(meal2))
-    return [data1[0].get("nutrients"),data2[0].get("nutrients")]
+
+def get_meal_based_on_restriction(params):
+    print(params)
+    restriction=params['restriction']
+    nutrient=params['name']
+    data=list(collection2.find())
+
+    return [data[0].get("recipe"),data[0].get("name"),data[0].get("nutrients"),restriction,nutrient]
+
+
+def get_meals_and_compare_nutrients(params):
+    meal1=params['name1']
+    meal2=params['name2']
+    data1 = list(collection2.find({'name':meal1}))
+    data2 = list(collection2.find({'name':meal2}))
+    returnlist=[]
+    for object in data1[0].get("nutrients"):
+        if object['name']==params['nameofnutrient']:
+            returnlist.append(object)
+    for object in data2[0].get("nutrients"):
+        if object['name'] == params['nameofnutrient']:
+            returnlist.append(object)
+    return returnlist
 
 
 if __name__ == '__main__':
